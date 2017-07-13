@@ -1,3 +1,5 @@
+Seee the paper at: https://arxiv.org/abs/1701.03441
+
 # Modified-LSTM
 Simplifications of Gate Units for Long Short-term Memory (LSTM):
 
